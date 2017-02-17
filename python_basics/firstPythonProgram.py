@@ -1,0 +1,1 @@
+trash = print("this is like my tenth print function")
