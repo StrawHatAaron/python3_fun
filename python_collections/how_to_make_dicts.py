@@ -1,0 +1,1 @@
+player = {'name':"Aaron", 'lives left': 4, 'Kill death ratio':'god-like','item':{'attack':'sword'}}
